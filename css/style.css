@@ -148,9 +148,9 @@ footer {
 }
 
 .navbar-brand img {
-  width: 10%;
+  width: 8%;
   position: relative;
-  bottom: 75%;
+  bottom: 70%;
 }
 
 @media (max-width: 550px) {
